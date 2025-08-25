@@ -1,0 +1,9 @@
+insert into student (rollno,name,marks,grade,city)
+values
+(101,"Bilal",78,"c","fsd"),
+(102,"talha",93,"a","multan"),
+(103,"ALI",85,"b","unitedstateofpak"),
+(104,"sameer",96,"a","northkorea"),
+(105,"awais",12,"f","islamabad"),
+(106,"farah",82,"b","delhi");
+select * from student;
