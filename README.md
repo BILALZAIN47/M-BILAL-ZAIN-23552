@@ -12,3 +12,6 @@ In MySQL Workbench, the database does not auto-refresh after changes. Therefore,
 - Delete records with conditions (e.g., based on marks)
 - Drop unnecessary columns
 - Sort data using `ORDER BY`
+
+
+  
