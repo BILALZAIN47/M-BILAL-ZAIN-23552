@@ -7,3 +7,4 @@ marks int not null,
 grade varchar(1),
 city varchar (20)
 );
+DESC student;
