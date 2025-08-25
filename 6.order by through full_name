@@ -1,0 +1,2 @@
+SELECT * FROM class
+ORDER BY full_name ASC;
